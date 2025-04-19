@@ -56,7 +56,9 @@ This allows full control of your automation script even when you're away from yo
 ## 📁 Repository Structure
 
 dist/
+
 └── aviauto.bundle.js       # Minified and bundled logic
+
 └── aviauto.secure.js       # (Optional) Obfuscated version for production
 
 ## ⚠️ Disclaimer
@@ -64,4 +66,5 @@ This script is for educational and research purposes only. Use at your own risk.
 
 #### 🧑‍💻 Author
 Made with 🚀 by Badzone yv4n
+
 For questions, contact: [Github](https://github.com/Badzoneyv4n/)
