@@ -45,7 +45,7 @@ This allows full control of your automation script even when you're away from yo
 // @grant        GM_notification
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @require      https://cdn.jsdelivr.net/gh/Badzoneyv4n/aviauto-dist@main/dist/aviauto.bundle.js
+// @require      https://cdn.jsdelivr.net/gh/Badzoneyv4n/aviauto-dist@39f1204/dist/aviauto.secure.js
 // ==/UserScript==
 
 (() => {
